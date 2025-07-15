@@ -34,7 +34,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 ### What I learned
 
-- add later
+- practiced background color overlay and transform translate(Y)
 
 ## Author
 
