@@ -20,7 +20,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Meet landing page solution](#)
+- Solution URL: [Meet landing page solution](https://www.frontendmentor.io/solutions/meet-landing-page-solution-I9Nu_6a2dv)
 - Live Site URL: [https://janikjczcz.github.io/meet-landing-page](https://janikjczcz.github.io/meet-landing-page)
 
 ## My process
