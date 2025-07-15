@@ -34,6 +34,7 @@
   --space-800: calc(var(--space-100) * 8);
   --space-900: calc(var(--space-100) * 9);
   --space-1000: calc(var(--space-100) * 10);
+  --space-1400: calc(var(--space-100) * 14);
   --section-padding-m: var(--space-800) var(--space-400) var(--space-400)
     var(--space-400);
   /*utils*/
@@ -365,6 +366,10 @@ footer {
   }
   .img__right {
     display: block;
+  }
+
+  .info {
+    padding-block: var(--space-1400);
   }
 
   .info,
